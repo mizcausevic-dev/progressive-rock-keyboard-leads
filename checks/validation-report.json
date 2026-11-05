@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:58:32.489333+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z6001-progressive-rock-keyboard-leads-opening/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "5d8689ff05eeb33837c1076c1eebda907b98b55782f60a8432f220c2c3f1ab9c",
+      "errors": []
+    },
+    {
+      "path": "midi/z6001-progressive-rock-keyboard-leads-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "c20ab092bd0437768410aab305b2d754ffe7d82e729b60c30647411ddcc749df",
+      "errors": []
+    },
+    {
+      "path": "midi/z6001-progressive-rock-keyboard-leads-opening/drums.mid",
+      "bytes": 2698,
+      "sha256": "108aa9acb8278926553241831997fa3e0ff785eb2fde1d0c6c7890d76da20cbc",
+      "errors": []
+    },
+    {
+      "path": "midi/z6001-progressive-rock-keyboard-leads-opening/principal_motif.mid",
+      "bytes": 797,
+      "sha256": "aae8ec03a74d97b43b90b486f1d999a1722e705fce704c0209fb54c914513ecf",
+      "errors": []
+    },
+    {
+      "path": "midi/z6001-progressive-rock-keyboard-leads-opening/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "b171b0f642ee0fff13bcde3e73f858fbe9cd8adb71bba47010144ab55b4b30a5",
+      "errors": []
+    },
+    {
+      "path": "midi/z6001-progressive-rock-keyboard-leads-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "03f3966855197bfe71c8c4bfdb3875de2e7586e267cb496943ff12a75169b20a",
+      "errors": []
+    },
+    {
+      "path": "midi/z6001-progressive-rock-keyboard-leads-opening/z6001-progressive-rock-keyboard-leads-opening-combined.mid",
+      "bytes": 5732,
+      "sha256": "ea64ab3cc71d192c1b0bd412af4cb19fb71a4b089afefef50195b56ae080b2c4",
+      "errors": []
+    },
+    {
+      "path": "midi/z6002-progressive-rock-keyboard-leads-variation/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "a09248a77beb5258116122fe8a757a94ca0a633778cc4ba7c1094ef9f356cfff",
+      "errors": []
+    },
+    {
+      "path": "midi/z6002-progressive-rock-keyboard-leads-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "f2ef063068f52529ec9e0b135026a6985348cf6748d7c2a83fcba69ce4bcbbd3",
+      "errors": []
+    },
+    {
+      "path": "midi/z6002-progressive-rock-keyboard-leads-variation/drums.mid",
+      "bytes": 2698,
+      "sha256": "108aa9acb8278926553241831997fa3e0ff785eb2fde1d0c6c7890d76da20cbc",
+      "errors": []
+    },
+    {
+      "path": "midi/z6002-progressive-rock-keyboard-leads-variation/principal_motif.mid",
+      "bytes": 796,
+      "sha256": "7787b42da3fd50ffcd0c5556de23e0417556f537827a9dd4ae89c0e21e5f5708",
+      "errors": []
+    },
+    {
+      "path": "midi/z6002-progressive-rock-keyboard-leads-variation/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "90003e1fcdadc07a52f0446abe1dc2c4ccfd8c1bc54bc8166030d85dfa1aab4d",
+      "errors": []
+    },
+    {
+      "path": "midi/z6002-progressive-rock-keyboard-leads-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "4110e432082db516bf8d587acfcb71c150b0144085cc554115fe8cc301108fcf",
+      "errors": []
+    },
+    {
+      "path": "midi/z6002-progressive-rock-keyboard-leads-variation/z6002-progressive-rock-keyboard-leads-variation-combined.mid",
+      "bytes": 5731,
+      "sha256": "87d1eeeda3847d6e4cb8a10cf4c42c6dc81d8d7e6a7807ed35dbc9bc2056dfb8",
+      "errors": []
+    },
+    {
+      "path": "midi/z6003-progressive-rock-keyboard-leads-contrast/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "ed6d2e2c291f29b3d826d6774d0f3bc7a06673752eba08d00fd4ec3535f8073c",
+      "errors": []
+    },
+    {
+      "path": "midi/z6003-progressive-rock-keyboard-leads-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "611b18049f527d0c43cfee00d9fb5d2cbcfe7a182056c6ad6a9466e8073eb2dd",
+      "errors": []
+    },
+    {
+      "path": "midi/z6003-progressive-rock-keyboard-leads-contrast/drums.mid",
+      "bytes": 2698,
+      "sha256": "108aa9acb8278926553241831997fa3e0ff785eb2fde1d0c6c7890d76da20cbc",
+      "errors": []
+    },
+    {
+      "path": "midi/z6003-progressive-rock-keyboard-leads-contrast/principal_motif.mid",
+      "bytes": 764,
+      "sha256": "c6a552a2e584bb9dd798319f6d0f7bdb98ab1a5e390be6236d451d17e524d0e9",
+      "errors": []
+    },
+    {
+      "path": "midi/z6003-progressive-rock-keyboard-leads-contrast/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "44c9064807f5f7e013aceb435f0701a73d3af2ce72a7689c19ecab4c5a0c0b0d",
+      "errors": []
+    },
+    {
+      "path": "midi/z6003-progressive-rock-keyboard-leads-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "24318a66dae8292b6ea9bca763e6efbea87df25084010222b083075e5968f6da",
+      "errors": []
+    },
+    {
+      "path": "midi/z6003-progressive-rock-keyboard-leads-contrast/z6003-progressive-rock-keyboard-leads-contrast-combined.mid",
+      "bytes": 5699,
+      "sha256": "b100e69169aabfa523b89d3aeea72e0456e14c9311e6ef540f2f3669c7de365a",
+      "errors": []
+    },
+    {
+      "path": "midi/z6004-progressive-rock-keyboard-leads-return/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "bfac4556ad4216a89b30b7eece8ff404efba28a8d668a0f77021b22ae9e17767",
+      "errors": []
+    },
+    {
+      "path": "midi/z6004-progressive-rock-keyboard-leads-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "4363aa065b5c3ad950024afaf062a867b9592657c7ca09b65661c539838aaee2",
+      "errors": []
+    },
+    {
+      "path": "midi/z6004-progressive-rock-keyboard-leads-return/drums.mid",
+      "bytes": 2698,
+      "sha256": "108aa9acb8278926553241831997fa3e0ff785eb2fde1d0c6c7890d76da20cbc",
+      "errors": []
+    },
+    {
+      "path": "midi/z6004-progressive-rock-keyboard-leads-return/principal_motif.mid",
+      "bytes": 764,
+      "sha256": "e359f28f54b18e3f5e10c26976cc45900be5d47e991b17a14173a7dc4d9d64c6",
+      "errors": []
+    },
+    {
+      "path": "midi/z6004-progressive-rock-keyboard-leads-return/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "666e201dee1e32a8f53a487acda6767d4d9643528a0f62b2317f4210c50c23e7",
+      "errors": []
+    },
+    {
+      "path": "midi/z6004-progressive-rock-keyboard-leads-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "a8a276e6f7a9af2821ffa384e02b64fbe3c295c124f27377138c50938c4af6b9",
+      "errors": []
+    },
+    {
+      "path": "midi/z6004-progressive-rock-keyboard-leads-return/z6004-progressive-rock-keyboard-leads-return-combined.mid",
+      "bytes": 5699,
+      "sha256": "fd356e298cc761e071fb7d07ad9d3bcc147b56fd7c884a7fb57e0813aae34a1b",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

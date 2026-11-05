@@ -1,0 +1,26 @@
+{
+  "title": "Progressive Rock Keyboard Leads",
+  "study": "z6001",
+  "bpm": 108,
+  "source_audio": "preview/progressive-rock-keyboard-leads-simple-synth-preview.mp3",
+  "source_audio_sha256": "f0f3dc21a7636ba272db1fe96fa9f05b49253e5f3abe64ccb0d25968050ebb3e",
+  "source_midi": "midi/z6001-progressive-rock-keyboard-leads-opening/z6001-progressive-rock-keyboard-leads-opening-combined.mid",
+  "source_midi_sha256": "ea64ab3cc71d192c1b0bd412af4cb19fb71a4b089afefef50195b56ae080b2c4",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "bc4653b8bbe5fa555868a3f7f642a4f8656782dcaa989d03e1e69eb4c95ac94e",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "0e97a51f3d7aef19dfa03f97b28abf2337ed63f1179fb65ace03e9fce4df5013",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "d681b27289402f6273a1b08e3eecdc1179243938340e28478cfc3867da6a4cfd",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

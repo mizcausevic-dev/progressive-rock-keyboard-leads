@@ -1,0 +1,450 @@
+{
+  "algorithm": "SHA-256",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "art/cover-provenance.json",
+      "bytes": 266,
+      "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
+    },
+    {
+      "path": "art/cover.svg",
+      "bytes": 1943,
+      "sha256": "b1ba997d8295ede1bba93546ee2e39ce6f463b9164c306f491c62bc218710cab"
+    },
+    {
+      "path": "art/hero.jpg",
+      "bytes": 336890,
+      "sha256": "0e97a51f3d7aef19dfa03f97b28abf2337ed63f1179fb65ace03e9fce4df5013"
+    },
+    {
+      "path": "art/illustration-source.png",
+      "bytes": 2534989,
+      "sha256": "a457676a156f549c16ae604432d4b3b6e724c76774f386727bbb9df9e87d85c0"
+    },
+    {
+      "path": "art/image-prompt.txt",
+      "bytes": 308,
+      "sha256": "8f95d6f84ccd24e5def96abc830366e548087d4f144294a09bdf69e40ef888ed"
+    },
+    {
+      "path": "art/raster-provenance.json",
+      "bytes": 500,
+      "sha256": "2f9d5e480405ff68671eb24d6287902a3953e4dbad6612fd3af526467c41b92d"
+    },
+    {
+      "path": "art/square.jpg",
+      "bytes": 379503,
+      "sha256": "790d09e87e0444ec47ab3e5a33b1fcea65b9486abb209752e54ee6dd2e253af3"
+    },
+    {
+      "path": "articles/medium-draft.md",
+      "bytes": 772,
+      "sha256": "438b9d524ed37d7ba0490758030e50a8ddab899e751f13e1e5967eb98f667bbc"
+    },
+    {
+      "path": "articles/medium-paste.txt",
+      "bytes": 772,
+      "sha256": "438b9d524ed37d7ba0490758030e50a8ddab899e751f13e1e5967eb98f667bbc"
+    },
+    {
+      "path": "catalog/clip-index.csv",
+      "bytes": 1844,
+      "sha256": "418b18a5da36572045dacfc96dd77161528d009a8567cdb9c157e764f60c3527"
+    },
+    {
+      "path": "catalog/drum-map.csv",
+      "bytes": 158,
+      "sha256": "ee5949764a6e42171b113a12ed1b18e3cb7f97fdcf48a545348cb8fdaf611c5c"
+    },
+    {
+      "path": "catalog/harmonic-events.csv",
+      "bytes": 26006,
+      "sha256": "db7d72d297e131b017bf37bfd83f2754ee1c1a440b8b92c72ecaf8bc18d0b4c9"
+    },
+    {
+      "path": "catalog/note-events.csv",
+      "bytes": 99089,
+      "sha256": "bc4653b8bbe5fa555868a3f7f642a4f8656782dcaa989d03e1e69eb4c95ac94e"
+    },
+    {
+      "path": "catalog/patch-recipes.json",
+      "bytes": 1810,
+      "sha256": "80584fcd3db787802c3797409f4da4ac3b7179ec449a2829b7d85b2b349a6727"
+    },
+    {
+      "path": "catalog/release-spec.json",
+      "bytes": 2565,
+      "sha256": "6d0fd95be33a94d69acb06e389da5db522ccf4cb4599e2a6b4e295887174d896"
+    },
+    {
+      "path": "catalog/structural-regions.csv",
+      "bytes": 816,
+      "sha256": "d175ad07deb2e79bc2325e1d7147b4002e1edc3a13708ab3c7681892a87ff009"
+    },
+    {
+      "path": "catalog/study-index.csv",
+      "bytes": 1305,
+      "sha256": "ee393ff34b6bb3790b107a09a36f3df48be27b1fb3cd9ee9493a6089744777ad"
+    },
+    {
+      "path": "checks/build-metadata.json",
+      "bytes": 401,
+      "sha256": "559554364c9d85273a386486e683069ce5ca2e92c03cfdda87b361150bec7b8a"
+    },
+    {
+      "path": "checks/clip-validation.json",
+      "bytes": 309,
+      "sha256": "85425e84ad56b8ce2ee831fbea086f67539e9c2052c619055b1b8e99d8b9166e"
+    },
+    {
+      "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+      "bytes": 81,
+      "sha256": "e484453db255dab39a7851124a16eef14ad242a2575e325b90704e8891d9fa15"
+    },
+    {
+      "path": "checks/media-validation.json",
+      "bytes": 462,
+      "sha256": "96e442960d4e4ecb459c3eacba4abcd2a1b70cf47cd25c33dd86f20d6da3cdd1"
+    },
+    {
+      "path": "clips/z6001-melody-01.mid",
+      "bytes": 165,
+      "sha256": "2d8be436949d8f5dd626b9ac2db32a389227c5599945df9334ce34c8ee26d6ce"
+    },
+    {
+      "path": "clips/z6001-melody-02.mid",
+      "bytes": 165,
+      "sha256": "de7cb13d815e5803a64cc9fa8cad9de68439b12cdb3688299181fe49e8def278"
+    },
+    {
+      "path": "clips/z6001-melody-03.mid",
+      "bytes": 121,
+      "sha256": "bf095f7729c94488843019062b75c98e1a91eec36b8eda832137b8dd35f0c5b3"
+    },
+    {
+      "path": "clips/z6001-melody-04.mid",
+      "bytes": 121,
+      "sha256": "a562df8dc26f4ab3c7c1cfc65b155a7a005f036513fa62c00c2b31acc35e6562"
+    },
+    {
+      "path": "clips/z6002-melody-01.mid",
+      "bytes": 163,
+      "sha256": "d19ca6bd16f5ce503c98e801ad6498d342a74929e8b2002b1149b2f00a2dc269"
+    },
+    {
+      "path": "clips/z6002-melody-02.mid",
+      "bytes": 163,
+      "sha256": "a5aac1f3be3442cf5a8ea4ad4fec70257229d99fe938dc805c444eefd4364e5d"
+    },
+    {
+      "path": "clips/z6002-melody-03.mid",
+      "bytes": 121,
+      "sha256": "5cdc7ee67f026239f3563688b570c0d86c76cccde4a9d7d34553870369c49a31"
+    },
+    {
+      "path": "clips/z6002-melody-04.mid",
+      "bytes": 121,
+      "sha256": "22f8a74565b139dfdafc3303d49ce58368400e3bbd95dfd40a7fa9a443e1886e"
+    },
+    {
+      "path": "clips/z6003-melody-01.mid",
+      "bytes": 164,
+      "sha256": "6ec52d241233f1d391713d8c7f4e04a9092941f26c45b25974a17ad033d76b05"
+    },
+    {
+      "path": "clips/z6003-melody-02.mid",
+      "bytes": 164,
+      "sha256": "120fddbfbccf8144b4f0c2b254a036b1cb085b49249b68cffe93b0fbda25e8c2"
+    },
+    {
+      "path": "clips/z6003-melody-03.mid",
+      "bytes": 105,
+      "sha256": "106a6e88a63e7aff17983a012893d84242046d7603b74dfb376cb63498617969"
+    },
+    {
+      "path": "clips/z6003-melody-04.mid",
+      "bytes": 105,
+      "sha256": "2d0b58d0439eb8a54fde01ce0fc08b519d9f2a6c7c90c8da5c38979ba57816f4"
+    },
+    {
+      "path": "clips/z6004-melody-01.mid",
+      "bytes": 163,
+      "sha256": "a58d68c0c76fd97634fc01fac29ded5d605bd84fd2e3e984dd327f92ac0e245f"
+    },
+    {
+      "path": "clips/z6004-melody-02.mid",
+      "bytes": 163,
+      "sha256": "9bbd9a2922a5e16dc2aaf56d35db1ec32748f5d8306c2bfc03833306c5d0b71f"
+    },
+    {
+      "path": "clips/z6004-melody-03.mid",
+      "bytes": 105,
+      "sha256": "9ec05845fa9077e459c6cfef9cad790db2775f7936764b42fa7531c7c2d50de6"
+    },
+    {
+      "path": "clips/z6004-melody-04.mid",
+      "bytes": 105,
+      "sha256": "cfe8579f6c1a3e42e494665f5c18ee6030464731430843b998b3b0fe2bc3f636"
+    },
+    {
+      "path": "delivery.md",
+      "bytes": 457,
+      "sha256": "880412f7a1c0e0b9e87f488ddc2fd5eb41401b6c43b7d0c8fefdcee705f04992"
+    },
+    {
+      "path": "downloads/progressive-rock-keyboard-leads-midi.zip",
+      "bytes": 32207,
+      "sha256": "4784fdc4f03d420d1dbceec039e4d04b7f413851c966d4e278e0117c678eea41"
+    },
+    {
+      "path": "film/motion-note-roll.png",
+      "bytes": 2718,
+      "sha256": "2ae14e126c5a3c15fbc8c97837b2d65667687ae69c82a12bfca12e558b05b236"
+    },
+    {
+      "path": "film/motion-overlay.png",
+      "bytes": 37028,
+      "sha256": "7cf9c8e4044bdc4a29db1b53db276758415627580a5320ea40fafb0ebdc82831"
+    },
+    {
+      "path": "film/poster.jpg",
+      "bytes": 312769,
+      "sha256": "424584991b4136b8450d20e2579d824403964b304100d599c5391c413d2dd604"
+    },
+    {
+      "path": "film/preview.mp4",
+      "bytes": 1094266,
+      "sha256": "d681b27289402f6273a1b08e3eecdc1179243938340e28478cfc3867da6a4cfd"
+    },
+    {
+      "path": "film/preview.vtt",
+      "bytes": 86,
+      "sha256": "66a3a5d04904c48ceef8c1eb6e0698d44a7ec9f80950e2cc21b7dc0f54c12fea"
+    },
+    {
+      "path": "film/video-manifest.json",
+      "bytes": 1258,
+      "sha256": "1f161d3b001317bb36940f5ce9b129ccbdf6840f6d3933484f04ed1507e97462"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10188,
+      "sha256": "f19e88b98760d6ecfc10b238dbe90642fec60bc74a42a24e886ac36527785682"
+    },
+    {
+      "path": "midi/z6001-progressive-rock-keyboard-leads-opening/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "5d8689ff05eeb33837c1076c1eebda907b98b55782f60a8432f220c2c3f1ab9c"
+    },
+    {
+      "path": "midi/z6001-progressive-rock-keyboard-leads-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "c20ab092bd0437768410aab305b2d754ffe7d82e729b60c30647411ddcc749df"
+    },
+    {
+      "path": "midi/z6001-progressive-rock-keyboard-leads-opening/drums.mid",
+      "bytes": 2698,
+      "sha256": "108aa9acb8278926553241831997fa3e0ff785eb2fde1d0c6c7890d76da20cbc"
+    },
+    {
+      "path": "midi/z6001-progressive-rock-keyboard-leads-opening/principal_motif.mid",
+      "bytes": 797,
+      "sha256": "aae8ec03a74d97b43b90b486f1d999a1722e705fce704c0209fb54c914513ecf"
+    },
+    {
+      "path": "midi/z6001-progressive-rock-keyboard-leads-opening/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "b171b0f642ee0fff13bcde3e73f858fbe9cd8adb71bba47010144ab55b4b30a5"
+    },
+    {
+      "path": "midi/z6001-progressive-rock-keyboard-leads-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "03f3966855197bfe71c8c4bfdb3875de2e7586e267cb496943ff12a75169b20a"
+    },
+    {
+      "path": "midi/z6001-progressive-rock-keyboard-leads-opening/z6001-progressive-rock-keyboard-leads-opening-combined.mid",
+      "bytes": 5732,
+      "sha256": "ea64ab3cc71d192c1b0bd412af4cb19fb71a4b089afefef50195b56ae080b2c4"
+    },
+    {
+      "path": "midi/z6002-progressive-rock-keyboard-leads-variation/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "a09248a77beb5258116122fe8a757a94ca0a633778cc4ba7c1094ef9f356cfff"
+    },
+    {
+      "path": "midi/z6002-progressive-rock-keyboard-leads-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "f2ef063068f52529ec9e0b135026a6985348cf6748d7c2a83fcba69ce4bcbbd3"
+    },
+    {
+      "path": "midi/z6002-progressive-rock-keyboard-leads-variation/drums.mid",
+      "bytes": 2698,
+      "sha256": "108aa9acb8278926553241831997fa3e0ff785eb2fde1d0c6c7890d76da20cbc"
+    },
+    {
+      "path": "midi/z6002-progressive-rock-keyboard-leads-variation/principal_motif.mid",
+      "bytes": 796,
+      "sha256": "7787b42da3fd50ffcd0c5556de23e0417556f537827a9dd4ae89c0e21e5f5708"
+    },
+    {
+      "path": "midi/z6002-progressive-rock-keyboard-leads-variation/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "90003e1fcdadc07a52f0446abe1dc2c4ccfd8c1bc54bc8166030d85dfa1aab4d"
+    },
+    {
+      "path": "midi/z6002-progressive-rock-keyboard-leads-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "4110e432082db516bf8d587acfcb71c150b0144085cc554115fe8cc301108fcf"
+    },
+    {
+      "path": "midi/z6002-progressive-rock-keyboard-leads-variation/z6002-progressive-rock-keyboard-leads-variation-combined.mid",
+      "bytes": 5731,
+      "sha256": "87d1eeeda3847d6e4cb8a10cf4c42c6dc81d8d7e6a7807ed35dbc9bc2056dfb8"
+    },
+    {
+      "path": "midi/z6003-progressive-rock-keyboard-leads-contrast/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "ed6d2e2c291f29b3d826d6774d0f3bc7a06673752eba08d00fd4ec3535f8073c"
+    },
+    {
+      "path": "midi/z6003-progressive-rock-keyboard-leads-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "611b18049f527d0c43cfee00d9fb5d2cbcfe7a182056c6ad6a9466e8073eb2dd"
+    },
+    {
+      "path": "midi/z6003-progressive-rock-keyboard-leads-contrast/drums.mid",
+      "bytes": 2698,
+      "sha256": "108aa9acb8278926553241831997fa3e0ff785eb2fde1d0c6c7890d76da20cbc"
+    },
+    {
+      "path": "midi/z6003-progressive-rock-keyboard-leads-contrast/principal_motif.mid",
+      "bytes": 764,
+      "sha256": "c6a552a2e584bb9dd798319f6d0f7bdb98ab1a5e390be6236d451d17e524d0e9"
+    },
+    {
+      "path": "midi/z6003-progressive-rock-keyboard-leads-contrast/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "44c9064807f5f7e013aceb435f0701a73d3af2ce72a7689c19ecab4c5a0c0b0d"
+    },
+    {
+      "path": "midi/z6003-progressive-rock-keyboard-leads-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "24318a66dae8292b6ea9bca763e6efbea87df25084010222b083075e5968f6da"
+    },
+    {
+      "path": "midi/z6003-progressive-rock-keyboard-leads-contrast/z6003-progressive-rock-keyboard-leads-contrast-combined.mid",
+      "bytes": 5699,
+      "sha256": "b100e69169aabfa523b89d3aeea72e0456e14c9311e6ef540f2f3669c7de365a"
+    },
+    {
+      "path": "midi/z6004-progressive-rock-keyboard-leads-return/chord_pulse.mid",
+      "bytes": 1257,
+      "sha256": "bfac4556ad4216a89b30b7eece8ff404efba28a8d668a0f77021b22ae9e17767"
+    },
+    {
+      "path": "midi/z6004-progressive-rock-keyboard-leads-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "4363aa065b5c3ad950024afaf062a867b9592657c7ca09b65661c539838aaee2"
+    },
+    {
+      "path": "midi/z6004-progressive-rock-keyboard-leads-return/drums.mid",
+      "bytes": 2698,
+      "sha256": "108aa9acb8278926553241831997fa3e0ff785eb2fde1d0c6c7890d76da20cbc"
+    },
+    {
+      "path": "midi/z6004-progressive-rock-keyboard-leads-return/principal_motif.mid",
+      "bytes": 764,
+      "sha256": "e359f28f54b18e3f5e10c26976cc45900be5d47e991b17a14173a7dc4d9d64c6"
+    },
+    {
+      "path": "midi/z6004-progressive-rock-keyboard-leads-return/sub_bass.mid",
+      "bytes": 822,
+      "sha256": "666e201dee1e32a8f53a487acda6767d4d9643528a0f62b2317f4210c50c23e7"
+    },
+    {
+      "path": "midi/z6004-progressive-rock-keyboard-leads-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "a8a276e6f7a9af2821ffa384e02b64fbe3c295c124f27377138c50938c4af6b9"
+    },
+    {
+      "path": "midi/z6004-progressive-rock-keyboard-leads-return/z6004-progressive-rock-keyboard-leads-return-combined.mid",
+      "bytes": 5699,
+      "sha256": "fd356e298cc761e071fb7d07ad9d3bcc147b56fd7c884a7fb57e0813aae34a1b"
+    },
+    {
+      "path": "preview/preview-manifest.json",
+      "bytes": 1203,
+      "sha256": "ffffa283313b26350d7626a22f0a872fce6492f0304d98e4bbd91c50d6673bf8"
+    },
+    {
+      "path": "preview/progressive-rock-keyboard-leads-simple-synth-preview.mp3",
+      "bytes": 1720364,
+      "sha256": "f0f3dc21a7636ba272db1fe96fa9f05b49253e5f3abe64ccb0d25968050ebb3e"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4043,
+      "sha256": "523d0b2f6640813766e3bf72ddfc7ca0610ad5d63c613a73600bb2780515cd3b"
+    },
+    {
+      "path": "social/instagram/caption.txt",
+      "bytes": 234,
+      "sha256": "e9320c9e711f6a15ee516259496b983ec122a72c82addd95414c77a8ab508c1b"
+    },
+    {
+      "path": "social/instagram/portrait.jpg",
+      "bytes": 382040,
+      "sha256": "ac1dc4d44e5ea7daf1f889db31122f40c4bd2f5acbd7adfb33d699c1221c3d1f"
+    },
+    {
+      "path": "social/instagram/square.jpg",
+      "bytes": 344385,
+      "sha256": "417673c3130bffee4a95ba0e05fd8c54dd82de8bc01eb6bb9c3d60c89f6a1223"
+    },
+    {
+      "path": "social/x/card.jpg",
+      "bytes": 304501,
+      "sha256": "3d3889a05e30ab6d38e705a767a88e6463f3b65f08d3e9c08a5abda45268906f"
+    },
+    {
+      "path": "social/x/post.txt",
+      "bytes": 196,
+      "sha256": "ea55868b3e00113d39570d0f39f6116e0938a8c763c735926d72afdc77523303"
+    },
+    {
+      "path": "tools/build_footwork.py",
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
+    },
+    {
+      "path": "tools/build_release.py",
+      "bytes": 147457,
+      "sha256": "97c986fb7994c8dd519b8f85696af96d32241a668111f4ffe4c3e2c241e1385c"
+    },
+    {
+      "path": "tools/polish_release.py",
+      "bytes": 7763,
+      "sha256": "b656e270626dcd22f2bff72dcc733516775299a975808bc7e674ca19c9a5219a"
+    },
+    {
+      "path": "tools/produce_clips.py",
+      "bytes": 13319,
+      "sha256": "c3facc22af5960aeeb87ad92c6be53d695744b09ddfe5e6e7ee315b8b4bf0a41"
+    },
+    {
+      "path": "tools/render_motion_preview.py",
+      "bytes": 7162,
+      "sha256": "e5269d02f53d5eb4c52d07826528ed8651ce8eea2a1d9ca495c440bb75e59791"
+    },
+    {
+      "path": "tools/validate_release.py",
+      "bytes": 13763,
+      "sha256": "c590a3c9e44249ddc1a2d14a048dea0f3e1ef0a232d3b86ea96a0f4eafeff6a5"
+    }
+  ]
+}

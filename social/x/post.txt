@@ -1,0 +1,3 @@
+DRAFT: Progressive Rock Keyboard Leads Studies is a four-study original MIDI release at 108 BPM. Simple-synthesis preview, not a master. #MIDI #Composition
+
+Count: 155 characters using Python len
