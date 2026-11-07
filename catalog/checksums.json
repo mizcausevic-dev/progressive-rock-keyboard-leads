@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/progressive-rock-keyboard-leads-midi.zip",
-      "bytes": 32207,
-      "sha256": "4784fdc4f03d420d1dbceec039e4d04b7f413851c966d4e278e0117c678eea41"
+      "bytes": 33194,
+      "sha256": "1beff6aa423dc664873be8b4eba8e75b48f4abb18c4e9862477b0741efebeaff"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10188,
-      "sha256": "f19e88b98760d6ecfc10b238dbe90642fec60bc74a42a24e886ac36527785682"
+      "bytes": 10378,
+      "sha256": "1ff14594f2ef3793adda0759e9da9a5329773cbde33d2b048ac1edfeb02198d3"
     },
     {
       "path": "midi/z6001-progressive-rock-keyboard-leads-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "fd356e298cc761e071fb7d07ad9d3bcc147b56fd7c884a7fb57e0813aae34a1b"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/preview-manifest.json",
       "bytes": 1203,
       "sha256": "ffffa283313b26350d7626a22f0a872fce6492f0304d98e4bbd91c50d6673bf8"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4049,
-      "sha256": "913200d9d111786bd5dd67869cac848c88407005d207d5f716fc54234b4fa1ae"
+      "bytes": 4164,
+      "sha256": "5898603256b21774015b17fa45ea04567d51b6248d176b3667d18d3daf9b677b"
     },
     {
       "path": "social/instagram/caption.txt",
